@@ -226,6 +226,12 @@ include_graphics(path = "Images/git-staging-area.svg")
 
 *(Source: Software Carpentry)*
 
+## The Basic Process
+
+- `git add`: Add files to the staged area
+- `git commit -m 'Message'` Commit a snapshot
+- `git commit -a -m 'Message'` Update tracked files and commmit
+
 # Using a Remote
 
 ## GitHub
